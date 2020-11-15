@@ -1,21 +1,69 @@
-## Welcome to GitHub Pages
+# Welcome to ASOS BOT
+Hey, if you want to support bot,[here](https://discord.gg/kxnnkhq4vm)
+## Command list
+Information
++youtube
 
-You can use the [editor on GitHub](https://github.com/tuankiet18031/animated-octo-pancake.github.pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
++wiki
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++google
 
-### Markdown
++serverinfo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++covid
 
-```markdown
-Syntax highlighted code block
++twitter
 
-# Header 1
-## Header 2
-### Header 3
++ggnews
 
-- Bulleted
++ggtranslate
+
+Image
++imgsay
+
++jpg
+
++gif
+
+You
++Avatar
+
++poll
+
++level
+
++ping
+
++giveaway
+
+Fun
++dice
+
++doubledice
+
++troubledice
+
++cat
+
++8ball
+
++dm <@target><,message>
+
++rps (Rock,Paper,Scisscors)
+
++emoji
+
++tell <,message>
+
++purge
+
++meme
+
++amongus <@target>
+
+
+
+
 - List
 
 1. Numbered
